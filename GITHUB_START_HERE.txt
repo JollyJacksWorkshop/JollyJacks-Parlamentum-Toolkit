@@ -1,0 +1,10 @@
+JollyJack's Parlamentum Toolkit V1.1 - GitHub setup
+
+1. Unzip this archive.
+2. On GitHub, open your repository > Add file > Upload files.
+3. Upload the extracted source files/folders (not the ZIP itself).
+4. Commit changes.
+5. For a GitHub Pages website, go to Settings > Pages; deploy branch main from /docs.
+6. For Windows downloads, create a GitHub Release and attach the Windows ZIP separately.
+
+Note: Do not add private saves or personal profile data to the public repository.
